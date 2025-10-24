@@ -1,11 +1,11 @@
 /landscaping-website
 │
-├── index.html          (Landing page)
-├── about.html          (About the company)
-├── projects.html       (Project gallery)
-├── contact.html        (Contact & reviews)
-├── style.css           (Main styles)
-└── script.js           (Animations & interactions)
+├── index.html          
+├── about.html          
+├── projects.html      
+├── contact.html        
+├── style.css           
+└── script.js           
 ```
 
 ---
